@@ -13,6 +13,6 @@
 - `cat file1 file2 > file3` command is used to combine files in to a new file.
 - You can merge more than two file using same command
 - `rm filename` command is used to remove file from system without confirmation.
-- 'mv filename directoryname' command is used to move file from one directory to another
-- 'cd directoryname' command is used to enter in any directory.
-- 'cd' command is used to come back to previous directory.
+- `mv filename directoryname` command is used to move file from one directory to another
+- `cd directoryname` command is used to enter in any directory.
+- `cd` command is used to come back to previous directory.
