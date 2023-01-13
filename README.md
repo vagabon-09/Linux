@@ -1,6 +1,6 @@
 # Linux
 In this repository we will learn about Linux
-# Linux Comands
+# Linux Commands
 - `mkdir DirectoryName` it use to create Directory.
 -  `rmdir` or `rm -d` used to remove empty directory.
 -  `rm -r` to delete directory that contain sub-directory and file.
