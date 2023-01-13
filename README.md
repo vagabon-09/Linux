@@ -2,6 +2,8 @@
 In this repository we will learn about Linux
 # Linux Comands
 - `mkdir DirectoryName` it use to create Directory.
+-  `rmdir` or `rm -d` used to remove empty directory.
+-  
 - `ls` it shows the files/directories in your current directory.
 - `ls -R` to shows all the files not only in directories but also subdirectories.
 - `ls -al` gives detailed information of the files.
@@ -11,7 +13,7 @@ In this repository we will learn about Linux
 - `cat filename` use to see file details
 - `cat file1 file2 > file3` use to combine files in to a new file.
 - `rm filename` used to remove file from system without confirmation
-- `rmdir` used to remove empty directory
+
 
 # Assignments
 [Assignment1](https://github.com/vagabon-09/Linux/blob/master/Assignment%201)
