@@ -1,7 +1,6 @@
 # Linux
 In this repository we will learn about Linux commands.
 Note :- Please read all the commands very carefully and write it using appropriate spaces and signs.
-In this repository we will learn about Linux
 # Linux Commands
 - `mkdir DirectoryName` it use to create Directory.
 -  `rmdir` or `rm -d` used to remove empty directory.
