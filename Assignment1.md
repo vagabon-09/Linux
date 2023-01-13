@@ -1,0 +1,16 @@
+# Questions
+- Create a directory 'Rose'
+- Change to that directory
+- Create a file Lotus
+- Create another file Jasmine
+- See the content of this directory
+- Copy the content of lotus to Merigold
+- See the content of jasmine 
+- See the content of lotus
+- See the content of merigold
+- Move the content of jasmine to tulip
+- See the contemt of tulip
+- See the content of jasmine
+- Remove file merigold
+- List the directory
+- Come to the previous directory
