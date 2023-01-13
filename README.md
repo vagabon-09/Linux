@@ -10,5 +10,5 @@ In this repository we will learn about Linux
 - `ctrl + d` use to save the file and return to command
 - `cat filename` use to see file details
 - `cat file1 file2 > file3` use to combine files in to a new file.
-- `rm filename` used to remove file from system without confirmation.
+- `rm filename` used to remove file from system without confirmation
 
