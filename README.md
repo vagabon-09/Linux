@@ -11,6 +11,7 @@ In this repository we will learn about Linux
 - `cat filename` use to see file details
 - `cat file1 file2 > file3` use to combine files in to a new file.
 - `rm filename` used to remove file from system without confirmation
+- `rmdir` used to remove empty directory
 
 # Assignments
 [Assignment1](https://github.com/vagabon-09/Linux/blob/master/Assignment%201)
