@@ -1,7 +1,7 @@
 # Linux
 #### In this repository we will learn about Linux commands :
 # Linux Commands
-## Note :- Please read all the commands very carefully and write it using appropriate spaces and signs.
+### Note :- Please read all the commands very carefully and write it using appropriate spaces and signs.
 - `mkdir DirectoryName` it use to create Directory.
 - `ls` it shows the files/directories in your current directory.
 - `ls -R` to shows all the files not only in directories but also subdirectories.
