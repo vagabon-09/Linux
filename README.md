@@ -1,5 +1,5 @@
 # Linux
-In this repository we will learn about Linux commands. For using and implimenting those command open your linux command and press `esc` button from your computer and enter `vi`  then enter `file_name.sh`. Now you will redirect into mention fill now press`esc + a` for writing command. Now after compelet writting progrma press `esc + : + wq` now you will againg redirec to main command prompt. Now for running this file press `sh file_name.sh` it will run whole commands of the file.
+In this repository we will learn about Linux commands. For using and implimenting those command open your linux command and press `esc` button from your computer and enter `vi`  then enter `file_name.sh`. Now you will redirect into mention fill now press`esc + a` for writing command. Now after complet writting progrma press `esc + : + wq` now you will againg redirec to main command prompt. Now for running this file press `sh file_name.sh` it will run whole commands of the file.
 ` ⚠ Please read all the commands very carefully and write it using appropriate spaces and signs.`
 # Linux Commands
 - `mkdir DirectoryName` it use to create Directory.
@@ -27,7 +27,7 @@ In this repository we will learn about Linux commands. For using and implimentin
 - `echo "any thing" ` use to print
 - `read variable_name` use to store values
 - `echo $variable_name` use to print assigned value of the variable
-- `expr $variable1 + $variable2` use to print expretion
+- ``expr $variable1 + $variable2`` use to print expretion  command 
 
 
 # Assignments
