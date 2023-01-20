@@ -24,6 +24,10 @@ In this repository we will learn about Linux commands.
 - `cat file1 file2 > file3` use to combine files in to a new file.
 - `rm filename` used to remove file from system without confirmation.
 - `nano filename` use to edit existing file
+- `echo "any thing" ` use to print
+- `read variable_name` use to store values
+- `echo $variable_bame` use to print assigned value of the variable
+- `expr $variable1 + $variable2` use to print expretion
 
 
 # Assignments
