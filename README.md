@@ -29,6 +29,8 @@ In this repository we will learn about Linux commands. For using and implimentin
 - `read variable_name` use to store value in a particular variable
 - `echo $variable_name` use to print assigned value of the variable
 - ``expr $variable1 + $variable2`` use to print expretion  command 
+- `vi filename.sh` use to open filename.sh in editor
+- `sh filename.sh` use to run filename.sh
 
 
 # Assignments
