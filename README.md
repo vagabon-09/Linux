@@ -31,6 +31,8 @@ In this repository we will learn about Linux commands. For using and implimentin
 - ``expr $variable1 + $variable2`` use to print expretion  command 
 - `vi filename.sh` use to open filename.sh in editor
 - `sh filename.sh` use to run filename.sh
+- `:wq` this command is used to exit from vi editor (if you are in editor moder then first use `esc`)
+-  `insert` or `shift` + `0` use to enable edit mode in vi editor
 
 
 # Assignments
