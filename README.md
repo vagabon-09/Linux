@@ -33,6 +33,9 @@ In this repository we will learn about Linux commands. For using and implimentin
 - `sh filename.sh` use to run filename.sh
 - `:wq` this command is used to exit from vi editor (if you are in editor moder then first use `esc`)
 -  `insert` or `shift` + `0` use to enable edit mode in vi editor
+- `function() {your shell} function ` used to create function (yous curli braces in another line not in same line and end function is calling function).
+- `function() {"// your code $1 $2" return xy} function vagabon 09` here $1 $2 are paremater and vagabon 09 are passing parameter to function and return is returning parameter.
+- `function() { your shell script $1 $2}` next line `function a b` next line `ret=$?` in this way we can get values that passing by the function
 
 
 # Assignments
